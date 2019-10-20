@@ -8,4 +8,74 @@ body{
 }
 h1,h2,h3,h4{
     font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+}
+
+.c-white{
+    color: #f4f4f4;
+}
+
+.c-black{
+    color: #282828;
+}
+.c-cyan{
+    color: #64FFDA;
+}
+.c-cyan-1{
+    color: #1DE9B6;
+}
+.c-red{
+    color: #FF5252;
+}
+.c-red-1{
+color: #FF1744;
+}
+
+.bg-blanco{
+    background-color: #f4f4f4;
+}
+
+.bg-negro{
+    background-color: #282828;
+}
+.bg-cyan{
+    background-color: #64FFDA;
+}
+.bg-cyan-1{
+    background-color: #1DE9B6;
+}
+.bg-red{
+    background-color: #FF5252;
+}
+.bg-red-1{
+background-color: #FF1744;
+}
+
+.headline-1{
+    font-size: 6rem;
+}
+.headline-2{
+    font-size: 5rem;
+}
+.headline-3{
+    font-size: 4rem;
+}
+.headline-4{
+    font-size: 3rem;
+}
+
+.copy-1{
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.copy-2{
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.copy-italic{
+    font-size: 1.5rem;
+    font-weight: 400;
+    font-style: italic;
 }
