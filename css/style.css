@@ -79,3 +79,21 @@ background-color: #FF1744;
     font-weight: 400;
     font-style: italic;
 }
+
+@media screen and (max-width: 992px){
+    .headline-1{
+        font-size: 4rem;
+    }
+    .copy-1{
+        font-size: 1rem;
+    }
+    
+    .copy-2{
+        font-size: .5rem;
+        font-weight: 600;
+    }
+    
+    .copy-italic{
+        font-size: 1rem;
+    }
+}
